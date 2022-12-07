@@ -1,0 +1,24 @@
+{
+    "name": "srdev93/customer-module",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "s Rahmani",
+            "email": "sst.sajad.e@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Customer\\": ""
+        }
+    }
+}
